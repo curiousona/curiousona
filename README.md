@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+🖇️ Let’s Connect!
+I am always eager to learn something new, collaborate on exciting projects, or discuss any of my works. Don't hesitate to reach out if you’re curious or have something interesting to share!
+
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali45/)
 
