@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali45/)
+
+## My Coding Ninjas Profile:
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Profile-blue?style=flat-square&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ilanos)
+
