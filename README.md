@@ -23,6 +23,3 @@ I am always eager to learn something new, collaborate on exciting projects, or d
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali45/)
 
-## My Coding Ninjas Profile:
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Profile-blue?style=flat-square&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/ilanos)
-
